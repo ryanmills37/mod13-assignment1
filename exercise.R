@@ -1,3 +1,2 @@
-assignment <- "hi"
-
-new.changes <- 10945
+r <- 1 + 1
+s <- 2+5
